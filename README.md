@@ -2,7 +2,7 @@
 
 **Local, verified backups for Windows — no cloud, no subscription.**
 
-[Get it from the Microsoft Store](https://apps.microsoft.com/detail/9PHLZ9V5P39M) · [Français](README.fr.md) · [Privacy policy](PRIVACY.md) · [Support](https://github.com/Riadh35/local-backup-pro/issues)
+[Get it from the Microsoft Store](https://apps.microsoft.com/detail/9PHLZ9V5P39M) · [Français](README.fr.md) · [User guide](GUIDE.md) · [Privacy policy](PRIVACY.md) · [Support](https://github.com/Riadh35/local-backup-pro/issues)
 
 ![Local Backup Pro dashboard](screenshots/dashboard-en.png)
 
